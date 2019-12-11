@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+#!/bin/sh
 import unittest
 from selenium import webdriver
 
